@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 工作产物
+audit.json
+*.pre-v2.lrc
+*.pre-retrans.lrc
+*.pre-notes*.lrc
